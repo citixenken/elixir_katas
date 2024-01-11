@@ -1,5 +1,3 @@
-# Elixir Leetcode Questions
-
 ## Problem - Add Length
 
 ### Instructions
